@@ -36,15 +36,11 @@ The dataset consists of vehicle sales data with various attributes, including:
    ```bash
    cd Vehicle-Sales-Data-Analysis
    ```
-3. Install the required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-4. Open Jupyter Notebook:
+3. Open Jupyter Notebook:
    ```bash
    jupyter notebook
    ```
-5. Run the notebook cells in sequence for analysis.
+4. Run the notebook cells in sequence for analysis.
 
 ## 📊 Key Insights
 - **Sales Trends:** Identified fluctuations in sales over different seasons.

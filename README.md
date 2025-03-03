@@ -25,7 +25,6 @@ The dataset consists of vehicle sales data with various attributes, including:
 - **Pandas & NumPy** for data processing.
 - **Matplotlib & Seaborn** for data visualization.
 - **Jupyter Notebook** for exploratory analysis.
-- **Scikit-learn** for machine learning models (if applied).
 
 ## 🛠️ Installation & Setup
 1. Clone the repository:

@@ -3,6 +3,9 @@ car_prices.csv
 car_prices_cleaned.csv
 car_prices_processed_for_forecasting.csv
 
+# Interview preparation (private notes)
+INTERVIEW_PREP.md
+
 # Python cache
 __pycache__/
 *.py[cod]

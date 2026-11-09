@@ -2,20 +2,9 @@
 
 ## Project Summary
 
-### What is this project?
-This project explores car auction sales to understand prices and market patterns.
+Imagine trying to understand hundreds of thousands of car auction sales. Reading the records one by one would take far too long. This project looks at car prices, mileage, brands, and sales trends to find useful patterns. The challenge is cleaning messy information before trying to learn from it.
 
-### Why is it interesting?
-Thousands of sale records are easier to understand when they are organized into charts.
-
-### How does it work?
-It cleans the records and compares prices, mileage, brands, and sales dates.
-
-### Real-life example
-You want to know whether older cars usually sell for less. Charts help explore this using actual sales data.
-
-### What did I learn?
-I practiced cleaning messy data, exploring patterns, and explaining results visually.
+I organized the data and created charts to compare different vehicles and sale dates. For example, you can explore whether older cars usually sell for less and how mileage relates to price. I learned how to clean real-world data, explore it carefully, and turn numbers into useful visual explanations.
 
 ---
 

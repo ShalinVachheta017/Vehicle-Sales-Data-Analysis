@@ -1,5 +1,27 @@
 # Vehicle Sales Data Analysis
 
+## Project Summary
+
+### What is this project?
+This project explores car auction sales to understand prices and market patterns.
+
+### Why is it interesting?
+Thousands of sale records are easier to understand when they are organized into charts.
+
+### How does it work?
+It cleans the records and compares prices, mileage, brands, and sales dates.
+
+### Real-life example
+You want to know whether older cars usually sell for less. Charts help explore this using actual sales data.
+
+### What did I learn?
+I practiced cleaning messy data, exploring patterns, and explaining results visually.
+
+---
+
+## Technical Documentation
+
+
 A beginner data analysis project exploring 558,837 vehicle auction records from 2014-2015 to understand pricing patterns, sales trends, and market dynamics in the US automotive industry.
 
 ## About This Project
